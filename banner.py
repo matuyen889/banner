@@ -1,4 +1,4 @@
-BLUE = "\33[94m"
+GREEN = "\33[94m"
 RESET = "\033[0m"
 banner = f"""{BLUE}                                                       
 From:MATUYEN.ETH
